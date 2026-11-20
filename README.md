@@ -15,4 +15,4 @@ Aplicativo Android inicial para diagnóstico OBD2 via adaptador ELM327 Bluetooth
 - Esta é uma primeira versão para validar conexão e leitura no veículo.
 
 ## Gerar APK
-O workflow `.github/workflows/android.yml` compila automaticamente em GitHub Actions após push na branch `main` ou manualmente por `workflow_dispatch`
+O workflow `.github/workflows/android.yml` compila automaticamente em GitHub Actions após push na branch `main` ou manualmente por `workflow_dispatch`.
